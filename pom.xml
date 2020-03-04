@@ -6,12 +6,12 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.mycompany.app</groupId>
-	<artifactId>4_JavaMaven</artifactId>
+	<artifactId>GitDemo</artifactId>
 	<version>1.0-SNAPSHOT</version>
 
 	<name>JavaMaven</name>
 	<!-- FIXME change it to the project's website -->
-	<url>http://www.JavaMaven.com</url>
+	<url>http://www.GitDemo.com</url>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
